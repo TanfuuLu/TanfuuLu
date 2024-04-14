@@ -10,5 +10,13 @@ You can click the Preview link to take a look at your changes.
 ![tumblr_6116fd539088350d6d1858e397f80e63_a0b8548b_1280](https://github.com/TanfuuLu/TanfuuLu/assets/143422937/6bc53db0-7060-4e23-a5a1-ef66302a209e)
 
 Welcome, i'm Phuc, you can also call me Tanfuu.
-![image](https://github.com/TanfuuLu/TanfuuLu/assets/143422937/a54d9a4e-f7fe-421b-b7f7-4e6e893a43e7) ![image](https://github.com/TanfuuLu/TanfuuLu/assets/143422937/e55aabd5-42c8-4c5c-b298-b0d50d936a99)
+<div align="left">
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
 
