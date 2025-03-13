@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Halo 👋, I'm Phuc</h1>
 <h3 align="center">I am a fourth-year student majoring in Information Technology.</h3>
 
-- 🌱 I’m currently learning **.NET, Angular, Tailwind, .NET Aspire**
+- 🌱 I’m currently learning **.NET, Angular, ASP.NET WEB API, .NET Aspire**
 
 - 📫 How to reach me **lutanfuu@gmail.com**
 
