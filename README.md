@@ -13,7 +13,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">I'm Lu Tran Tan Phuc - Tanfuu</h1>
 
 - 🌱 I’m currently using **.NET Core, Angular, ASP.NET Web API, .NET Aspire, TypeScript**
-
+- Architecture & Design Pattern: Monolith, MVC, Microservices, Clean Architecture, Repository Pattern, CQRS
+- Basic knowdledge about: Docker, RabbitMQ, Redis, SignalR, Cloud: Azure, GCP 😁
+  
 - 📫 How to reach me **lutanfuu@gmail.com**
 
 
